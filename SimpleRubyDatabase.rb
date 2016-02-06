@@ -424,6 +424,7 @@ class Table
 
         end
 
+        #put the data in the database file
         file.puts(data_string)
 
 			end
